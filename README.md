@@ -7,6 +7,10 @@
 - 🌱 I’m currently learning **Angular, Vue**
 - 📫 How to reach me **agafonoff.k@yandex.ru**
 
+<br/>
+<br/>
+---
+
 ### Contacts:
 
 [<img align="left" alt="Agafonof | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />][linkedin]
@@ -16,7 +20,7 @@
 
 <br/>
 <br/>
-
+---
 ### Stack:
 
  <p align="left">
@@ -26,6 +30,7 @@
 
 <br/>
 <br/>
+---
 
 - **Frontend**: JS, TypeScript, React, ReactNative Redux (Saga, Thunk, Toolkit), HTML5, CSS3, MUI, Bootstrap
 - **Backend**: Node.js, Express, Sessions, CORS, WebSockets
