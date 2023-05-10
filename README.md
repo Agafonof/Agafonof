@@ -9,7 +9,7 @@
 
 <br/>
 <br/>
----
+
 
 ### Contacts:
 
@@ -20,7 +20,7 @@
 
 <br/>
 <br/>
----
+
 ### Stack:
 
  <p align="left">
@@ -30,7 +30,6 @@
 
 <br/>
 <br/>
----
 
 - **Frontend**: JS, TypeScript, React, ReactNative Redux (Saga, Thunk, Toolkit), HTML5, CSS3, MUI, Bootstrap
 - **Backend**: Node.js, Express, Sessions, CORS, WebSockets
