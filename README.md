@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirill</h1>
-
+---
 ### Frontend developer from Russia
 
 - 👨‍💻 I've been in Frontend-development for over 2 years.
