@@ -6,7 +6,6 @@
 
 - 👨‍💻 I've been in Frontend-development for over 4 years.
 - 🔭 I like to keep up with world progress and constantly improve my skills and abilities, so I chose the IT field.
-- 🌱 I’m currently learning **Next.js**
 - 📫 How to reach me **agafonoff.k@yandex.ru**
 
 <br/>
